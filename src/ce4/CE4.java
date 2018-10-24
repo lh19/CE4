@@ -19,6 +19,11 @@ public class CE4 {
         for (int i = 1; i <= 4; i++) {
             System.out.println(i);
         }
+        
+        System.out.println("This is Aaron Venham, I will count from 4 to 8.");
+        for (int i = 4; i <= 8; i++) {
+            System.out.println(i);
+        }
     }
     
 }
